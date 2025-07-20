@@ -1,7 +1,7 @@
 {
-  "name": "My Token",
-  "description": "Test Jetton on TON Blockchain",
-  "symbol": "TEST",
+  "name": "TEST",
+  "description": "HUIiUIHUHBJHKGOUIAJNIGUhsauio",
+  "symbol": "HUIi",
   "decimals": 9,
   "image": "https://raw.githubusercontent.com/ton-blockchain/token-metadata/main/sample-logo.png"
 }
